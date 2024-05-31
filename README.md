@@ -20,5 +20,5 @@ I've used 4 differnet CNN models to train these images -
 3. Pretrained model VGG-16
 4. Pretrained model Inception-V3
 
-
+**I've used Transfer Learning to train these pretrained models, VGG-16 and Inception-V3, on a custom dataset. These 2 models have the best accuracy and f1-score.**
   
