@@ -14,7 +14,7 @@ This Dataset has images of 7 different classes -
 7. Product 
 
 # Approach:
-I've used 4 differnet CNN models to train these images - 
+I've used 4 different CNN models to train these images - 
 1. CNN model bulit from scratch
 2. Hypertuned CNN model bulit from scratch
 3. Pretrained model VGG-16
