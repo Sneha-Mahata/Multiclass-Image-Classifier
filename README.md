@@ -1,4 +1,4 @@
-# Multiclass-Image-Classification
+# Multiclass-Image-Classifier
 Multiclass Image Classification of 7 different classes using transfer learning with pretrained models.
 
 # Dataset:
